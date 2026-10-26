@@ -57,6 +57,7 @@ Nocode enables programmers and non-programmers to create application software th
 - [Microsoft Power Automate](https://www.microsoft.com/de-de/power-platform/products/power-automate) - Streamline repetitive tasks and paperless processes.
 - [n8n](https://n8n.io/) - Open Source and extendable workflow automation.
 - [Node-RED](https://nodered.org/) - Open Source lowcode programming for event-driven applications.
+- [Nyria](https://nyria.io/) - Alert-to-order automation for traders, from TradingView, Discord or Telegram to your own broker.
 - [Parabola](https://parabola.io/) - Workflow automation built for ops & finance teams.
 - [Prefect.io](https://www.prefect.io/) - Dataflow automation to build, run, and monitor millions of data workflows and pipelines.
 - [Pipedream](https://pipedream.com/) - Connect APIs, remarkably fast.
